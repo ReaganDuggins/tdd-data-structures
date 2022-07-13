@@ -17,4 +17,3 @@ but with smaller steps this time. It is practice after all :)
 # IntelliJ Plugins Installed
 - Gauge
 - Markdown Navigator
-- Markdown Navigator
